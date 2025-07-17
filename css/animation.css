@@ -1,0 +1,77 @@
+@keyframes google-logo-move {
+  from {
+    top:60%;
+    left: 90%;
+  }
+  to {
+    top: -9rem;
+    left: 2rem;
+    }
+}
+
+@keyframes atlassian-logo-move {
+  from {
+    top:5%;
+    left: 90%;
+  }
+  to {
+      top: -9rem;
+      left: 10rem;
+    }
+}
+
+@keyframes asana-logo-move {
+  from {
+    top:5%;
+    left: -5%;
+  }
+  to {
+    top: -9rem;
+    left: 24rem;
+    }
+}
+
+@keyframes paypal-logo-move {
+  from {
+    top:95%;
+    left: 90%;
+  }
+  to {
+    top: 5rem;
+    left: -19rem;
+  }
+}
+
+@keyframes weave-logo-move {
+  from {
+    top:20rem;
+    left:40rem;
+  }
+  to {
+      top: 5rem;
+      left: 1rem;
+    }
+}
+
+@keyframes google-ads-move {
+  from {
+    top:0;
+    left: 30rem;
+  }
+  to {
+      top: 13rem;
+      left: -17rem;
+    }
+}
+
+@keyframes calendar-logo-move {
+  from {
+    top:5%;
+    left: -5%;
+  }
+  to {
+      top: 15rem;
+      left: 7rem;
+    }
+}
+
